@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abhinav <br>👀 I’m interested in App, Web development<br>🌱 I’m currently learning Flutter and React<br>💞️ I’m looking to collaborate on App and Web projects<br>📫 Reach me at abhinavmohanan17@gmail.com
+👋 Hi, I’m Abhinav <br>👀 I’m an App, Web developer <br>🌱 I’m currently learning Blockchain Technology<br>💞️ I’m looking to collaborate on App and Web projects<br>📫 Reach me at abhinavmohanan17@gmail.com
 
 
 ## 🌐 Socials:
